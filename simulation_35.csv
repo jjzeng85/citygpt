@@ -1,0 +1,7 @@
+,route_name,depot,year,ddcp,total_charging_estimation_kw,driven_distance_estimation,fail_count,car_used_percentage
+0,60覺民幹線,高雄站,2023,98,84,25,40,63
+1,橘11A區間車,高雄站,2023,89,95,69,29,40
+2,橘11B,高雄站,2023,18,77,98,30,71
+3,橘12(白天延駛澄清湖),高雄站,2023,39,40,44,14,18
+4,橘11A,高雄站,2023,88,8,13,66,80
+5,E04燕巢學園快線,高雄站,2023,50,43,95,22,19
