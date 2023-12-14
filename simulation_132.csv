@@ -1,0 +1,5 @@
+,bus_age,depot,year,on_time_percentage,total_charging_kw,ddcp,car_used_percentage,count
+0,電巴車齡不到1年,鳳山站,2023,87,69,73,49,59
+1,電巴車齡1年,鳳山站,2023,77,23,92,46,27
+2,電巴車齡2年,鳳山站,2023,39,19,23,31,41
+3,電巴車齡3年,鳳山站,2023,44,58,56,39,60

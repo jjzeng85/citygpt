@@ -1,0 +1,4 @@
+,bus_age,depot,year,driven_distance_estimation,total_charging_kw,fail_count
+0,電巴車齡不到1年,高雄站,2023,94,16,14
+1,電巴車齡1年,高雄站,2023,78,1,13
+2,電巴車齡2年,高雄站,2023,47,73,98
