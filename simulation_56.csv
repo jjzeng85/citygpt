@@ -1,3 +1,3 @@
-,route_name,year,on_time_percentage,total_charging_estimation_kw,car_used_percentage
-0,橘11B,2027,43,83,20
-1,橘11B,2028,72,4,61
+﻿ts,route_name,on_time_percentage,total_charging_estimation_kw,car_used_percentage
+2027,橘11B,7,39,87
+2028,橘11B,98,80,2

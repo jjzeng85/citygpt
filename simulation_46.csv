@@ -1,3 +1,3 @@
-,depot,yyyymmdd,on_time_percentage,driven_distance_estimation
-0,高雄站,2008-09-08,43,68
-1,鳳山站,2008-09-08,79,23
+﻿ts,depot,on_time_percentage,driven_distance_estimation
+2008-09-08,鳳山站,92,29
+2008-09-08,高雄站,74,41

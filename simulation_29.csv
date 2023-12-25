@@ -1,4 +1,4 @@
-,depot,year,driven_distance,on_time_percentage,dcp
-0,鳳山站,2023,71,98,61
-1,楠梓站,2023,47,65,90
-2,高雄站,2023,52,46,91
+﻿ts,depot,driven_distance,on_time_percentage,dcp
+2023,鳳山站,74,5,92
+2023,楠梓站,44,70,58
+2023,高雄站,84,38,18

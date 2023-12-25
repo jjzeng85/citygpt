@@ -1,3 +1,2 @@
-,depot,yyyymm,driven_distance_estimation,car_used_percentage
-0,高雄站,2023-01,93,99
-1,高雄站,2023-01,29,38
+﻿ts,depot,driven_distance_estimation,car_used_percentage
+2023-01,高雄站,66,40

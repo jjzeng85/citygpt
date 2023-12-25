@@ -1,4 +1,4 @@
-,depot,yyyymm,total_charging_kw,total_charging_estimation_kw,on_time_percentage
-0,高雄站,2017-02,100,51,81
-1,高雄站,2017-03,84,90,63
-2,高雄站,2017-04,61,87,57
+﻿ts,depot,total_charging_kw,total_charging_estimation_kw,on_time_percentage
+2017-02,高雄站,80,93,34
+2017-03,高雄站,67,84,84
+2017-04,高雄站,14,57,58

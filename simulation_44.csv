@@ -1,2 +1,2 @@
-,route_name,yyyymmdd,ddcp,total_charging_kw,driven_distance,car_used_percentage
-0,E04燕巢學園快線,2025-09-03,74,82,26,2
+﻿ts,route_name,ddcp,total_charging_kw,driven_distance,car_used_percentage
+2025-09-03,E04燕巢學園快線,26,11,74,70

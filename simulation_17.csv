@@ -1,3 +1,3 @@
-,depot,bus_age,yyyymm,total_charging_estimation_kw
-0,鳳山站,電巴車齡超過5年,2027-02,93
-1,高雄站,電巴車齡超過5年,2027-02,66
+﻿ts,depot,bus_age,total_charging_estimation_kw
+2027-02,鳳山站,電巴車齡超過5年,59
+2027-02,高雄站,電巴車齡超過5年,30

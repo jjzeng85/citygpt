@@ -1,2 +1,2 @@
-,bus_age,month,dcp,driven_distance_estimation
-0,電巴車齡不到1年,2023-11,72,23
+﻿ts,bus_age,dcp,driven_distance_estimation
+2023-10,電巴車齡不到1年,32,31

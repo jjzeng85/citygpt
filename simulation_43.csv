@@ -1,3 +1,3 @@
-,depot,yyyymm,total_charging_kw,car_used_percentage,dcp
-0,楠梓站,2025-09,27,20,12
-1,楠梓站,2025-10,54,57,69
+﻿ts,depot,total_charging_kw,car_used_percentage,dcp
+2025-09,楠梓站,82,27,13
+2025-10,楠梓站,87,44,75

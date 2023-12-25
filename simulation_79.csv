@@ -1,3 +1,3 @@
-,depot,bus_age,yyyymmdd,driven_distance,dcp,ddcp
-0,鳳山站,電巴車齡4年,2011-01-30,61,95,76
-1,高雄站,電巴車齡4年,2011-01-30,56,58,39
+﻿ts,depot,bus_age,driven_distance,dcp,ddcp
+2011-01-30,鳳山站,電巴車齡4年,89,42,11
+2011-01-30,高雄站,電巴車齡4年,50,44,62

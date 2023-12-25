@@ -1,3 +1,2 @@
-,route_name,yyyymm,fail_count
-0,60覺民幹線區間車,2016-07,51
-1,60覺民幹線區間車,2016-07,89
+﻿ts,route_name,fail_count
+2016-07,60覺民幹線區間車,23

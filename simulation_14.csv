@@ -1,4 +1,4 @@
-,depot,bus_age,yyyymmdd,count,total_charging_estimation_kw,total_charging_kw
-0,鳳山站,電巴車齡1年,2013-02-10,41,45,86
-1,楠梓站,電巴車齡1年,2013-02-10,82,72,6
-2,高雄站,電巴車齡1年,2013-02-10,60,78,74
+﻿ts,depot,bus_age,count,total_charging_estimation_kw,total_charging_kw
+2013-02-10,鳳山站,電巴車齡1年,86,76,9
+2013-02-10,楠梓站,電巴車齡1年,60,47,60
+2013-02-10,高雄站,電巴車齡1年,64,93,6

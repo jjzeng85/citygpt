@@ -1,2 +1,2 @@
-,bus_age,yyyymm,count,total_charging_kw,total_charging_estimation_kw
-0,電巴車齡不到1年,2029-10,87,6,58
+﻿ts,bus_age,count,total_charging_kw,total_charging_estimation_kw
+2029-10,電巴車齡不到1年,90,74,79
